@@ -40,7 +40,7 @@ A modular, single-page web application for a fictional pizzeria. Built using HTM
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-repo/pizzeria-da-nono.git
+   git clone https://github.com/estellel-github/restaurant-page
 
    ```
 
