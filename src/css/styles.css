@@ -221,7 +221,7 @@ h1 {
   flex-direction: column;
   align-items: center;
   background-image: url("../images/pizza.png");
-  height: 50vh;
+  height: 40vh;
   background-size: cover;
   background-position: center;
   display: flex;
