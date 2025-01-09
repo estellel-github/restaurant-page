@@ -2,7 +2,7 @@
 
 A modular, single-page web application for a fictional pizzeria. Built using HTML, CSS, and JavaScript, with Webpack for module bundling.
 
-![alt text](image.png)
+![Screenshot for the restaurant page app](image.png)
 
 🔗 Live demo: https://estellel-github.github.io/restaurant-page/
 
